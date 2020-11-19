@@ -1,0 +1,44 @@
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=B7OOxC4LUXB8Z/Du0CXH999Ra0X6gPpHgjzet+GEXP0=;
+        b=HHooB/D2udEF+ldpsXxtJL6ecisVcg3NBmfqRH9btWEfuKRQdn/PLRO2ELrAigrvcD
+         UR2TxgBJGRYVkSUQgHZCrtjYIWRF9I+kJ4y+Ek1cyMHXOc8cmLVuntKhHlkxAUY0Bq/7
+         1iAZMbqFYCnYKRDv4yjH+suYTGLoaazMQuUxW9wz39NJWF/kXM7vKL44VTsWAznUMNSf
+         AcvTZXdW+f+6s6dWKh4iqLem+oV+zkYK7ka7HfcyFzAXOsuj7NXie+gJcFH7UlVLE0+g
+         oO/nEtxZPoCgexe95Dk7099ChqorlVLX9geZ8wNpC4W4pdrarkJIPaaYxvXZ2zEf2DFn
+         u1oQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=B7OOxC4LUXB8Z/Du0CXH999Ra0X6gPpHgjzet+GEXP0=;
+        b=Uy+khE71XfBnETF9QXcZJl9osSiqpxB//wyo9VtwJpo8JPMq0XkT7QQv7tjZiRqf+B
+         pwy24J9UUnEhogo3X6IZIdGMXCyc/nxFfTdCsMOOOzCqwW0JCCrnRXx6++ud7BV0E29q
+         /yvOwVvVSs5efE1pFhE9frwjpccaFbSwkCEQWY/D9OKgNdo6JP3/yjtwhXVS/LEnnY8X
+         EVERUjN5dZAd2LLZ5kbwe1ktHkmf/mIJ2aGqyzu6q1UgxROXVRZPA925Rsl5c6FUAdFo
+         umImn5Mo5viU5WQT+mNhvJoLVu2Th5WVsc3a/uDs/iQVfNiVo8nVsGwKm3HvrtZL8Y5z
+         oxuw==
+X-Gm-Message-State: AOAM532kKDaicmKLkRl3RE0o1H0SwP426KcJz1nSUV3RgtXfsiaBT0ES
+	YA/N6MlIikb0eJuvro9/w/1igOk1L4T28GiLEmjEv0W4QrY=
+X-Google-Smtp-Source: ABdhPJwYgVy80UsO3KaBh6gjYlH7m2vGrM8X7mjL6MoUcBq67N3ojDfavos2KUD1I5kf8xvyAuOlmomhQbJNHs0i+0g=
+X-Received: by 2002:a50:8745:: with SMTP id 5mr18999233edv.49.1605595435825;
+ Mon, 16 Nov 2020 22:43:55 -0800 (PST)
+MIME-Version: 1.0
+From: Joe Seguin <seguinjoe60@gmail.com>
+Date: Tue, 17 Nov 2020 01:43:42 -0500
+Message-ID: <CAJjNxKdsmacCB4D8gH-CUWEH9w3FHytXG6SyX4Jgu3N2mTh-7w@mail.gmail.com>
+Subject: What do is up
+To: DM5PR05MB28421A944380368C28ACFE92A9E50@dm5pr05mb2842.namprd05.prod.outlook.com
+Content-Type: multipart/alternative; boundary="0000000000009afe6205b447d1a0"
+
+--0000000000009afe6205b447d1a0
+Content-Type: text/plain; charset="UTF-8"
+
+
+
+--0000000000009afe6205b447d1a0
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="auto"></div>
+
+--0000000000009afe6205b447d1a0--
